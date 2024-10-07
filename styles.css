@@ -15,3 +15,14 @@ h3{
     color: white;
 }
 
+.project{
+    
+display:flex; flex-wrap:wrap;  /* condensed to save space */
+
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: black; /* pick a color */
+border-radius: 25%;
+
+}
