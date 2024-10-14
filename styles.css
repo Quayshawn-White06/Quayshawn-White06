@@ -25,5 +25,8 @@ padding: 20px 10px;
 background: rgb(255, 221, 0); 
 border-radius: 25%;
 }
+.picture{
+    display:flex; flex-wrap:wrap; 
+}
 
 
