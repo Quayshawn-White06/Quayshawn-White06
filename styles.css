@@ -9,24 +9,29 @@ color: beige;
 h1,h2{
     font-style: bold;
     font-family: "Gill Sans",'Times New Roman', Times, serif;
+    color: rgb(255, 238, 0);
 }
 
-h3{
-    color: white;
-}
 
-.project{
+
+.projects{
     
-display:flex; flex-wrap:wrap;  /* condensed to save space */
-
-width: 30%;
+display:flex; flex-wrap:wrap;  
+}
+.project{
+width: 5%;
 margin: 10px;
 padding: 20px 10px;
-background: black; /* pick a color */
+background: rgb(255, 221, 0); 
 border-radius: 25%;
-
 }
 
-.affinity{
-width: 500px;
-}
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    display: block;
+    margin: auto;
+    }
+
