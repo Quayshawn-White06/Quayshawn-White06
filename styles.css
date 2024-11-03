@@ -36,7 +36,7 @@ border-radius: 5%;
     }
 
 .h3{
-    text-align: center;
+    text-align: match-parent;
 }
 .about{
     display:flex;
