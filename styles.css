@@ -35,6 +35,10 @@ border-radius: 5%;
     margin: auto;
     }
 
+.project p{
+    color: purple;
+}
+
 .h3{
     text-align: match-parent;
 }
