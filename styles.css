@@ -1,6 +1,8 @@
 body{
-background-color: purple;
-color: yellow;
+background-image: url('images/background image.jpg');
+background-size: cover; /* Make the background cover the entire page */
+background-position: center center; /* Center the background image */
+background-repeat: no-repeat; /* Prevent image repetition */
 }
     
 .head{
